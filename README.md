@@ -1,4 +1,4 @@
-#Extrair, transformar e carregar(ETL) utilizando Python.
+# Extrair, transformar e carregar(ETL) utilizando Python.
 
 Objetivo:
 O objetivo é combinar várias tabelas de dados brutos (raw-data) em uma única tabela.
